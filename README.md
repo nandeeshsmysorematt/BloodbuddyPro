@@ -1,2 +1,3 @@
-# cluculator
-Basic claculator
+# Calculator-app
+
+https://kmhcalculator.netlify.app/
