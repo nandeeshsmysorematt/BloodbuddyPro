@@ -7,6 +7,7 @@ Blood Buddy-Blood Bank Management System
 **Live Link:** https://bloodbuddy.netlify.app/
 
 **Tech Stack used**: HTML5, CSS3, JavaScript
+<a href="https://github.com/nandeeshsmysorematt/BloodbuddyPro" style="color: blue; text-decoration: underline;">GitHub link</a>
 
 **Objectives**:
 
